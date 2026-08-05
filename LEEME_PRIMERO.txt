@@ -1,0 +1,27 @@
+STATLAB - PASOS FINALES
+=======================
+
+ESTADO CONFIRMADO
+- El docente autorizó el dataset Seoul Bike Sharing Demand.
+- La portada contiene los datos reales del Instituto Superior Tecnológico
+  Particular Sudamericano, Alexis Patiño, Carlos Zhuzhingo e Ing. Nancy Eras.
+- Las cuatro capturas corresponden a la interfaz oscura actual.
+- El informe técnico fue regenerado y revisado visualmente.
+- El ejecutable fue recompilado y validado desde dist\StatLab.
+- Las 10 pruebas automáticas terminan correctamente con estado OK.
+- La carpeta contiene código, dataset, pruebas, ejecutable y materiales de apoyo.
+
+ACCIONES MANUALES DEL GRUPO
+1. Ensayen y graben el video siguiendo docs\Guion_Sustentacion_10_Minutos.md.
+2. Comprueben audio, imagen y duración máxima de 10 minutos.
+3. Antes de subir, hagan una prueba breve en el equipo de presentación.
+4. Verifiquen que el ZIP y el video puedan abrirse desde la plataforma de entrega.
+
+IMPORTANTE
+- Conserva y entrega toda la carpeta dist\StatLab; no copies solo StatLab.exe.
+- El ZIP se usa únicamente para transportar la entrega completa en un solo archivo
+  sin perder la carpeta _internal ni las dependencias del ejecutable. Descomprímelo
+  antes de abrir dist\StatLab\StatLab.exe.
+- El informe técnico ya contiene los datos reales del grupo.
+- El video final debe agregarse por separado, porque no forma parte de esta carpeta.
+- Consulta VERIFICACION_FINAL_ENTREGA.txt para ver el resultado de la auditoría.

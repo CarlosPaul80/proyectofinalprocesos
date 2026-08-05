@@ -1,0 +1,14 @@
+{
+  "institucion": "Instituto Superior Tecnológico Particular Sudamericano",
+  "carrera": "Desarrollo de Software",
+  "asignatura": "Probabilidad y Procesos Estocásticos",
+  "titulo": "Desarrollo de un Sistema de Análisis Estadístico con Python",
+  "nombre_aplicacion": "StatLab",
+  "integrantes": [
+    "Alexis Patiño",
+    "Carlos Zhuzhingo"
+  ],
+  "docente": "Ing. Nancy Eras",
+  "ciudad": "Ecuador",
+  "fecha": "Julio de 2026"
+}

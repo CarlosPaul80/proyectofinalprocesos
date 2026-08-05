@@ -1,0 +1,45 @@
+STATLAB - VERIFICACIÓN FINAL DE ENTREGA
+=======================================
+
+Fecha de cierre técnico: 28 de julio de 2026
+
+DATOS DE PORTADA
+- Institución: Instituto Superior Tecnológico Particular Sudamericano
+- Docente: Ing. Nancy Eras
+- Estudiantes: Alexis Patiño y Carlos Zhuzhingo
+- Dataset: Seoul Bike Sharing Demand (confirmado con el docente)
+
+RESULTADO DE LA AUDITORÍA V2
+- Bug del fondo de gráficos en PDF: CORREGIDO.
+- Diagrama de cajas recortado o solapado: CORREGIDO.
+- Texto "2.0 Premium Edition": ELIMINADO.
+- Versión visible: StatLab 1.0.0.
+- Documentación de Tkinter y navegación antigua: ACTUALIZADA.
+- Capturas antiguas: REEMPLAZADAS por cuatro capturas de la interfaz actual.
+- Informe técnico: REGENERADO Y REVISADO VISUALMENTE (16 páginas).
+- Reporte de ejemplo: REGENERADO Y REVISADO (5 páginas).
+- Ejecutable: RECOMPILADO DESDE CERO Y VALIDADO EN INTERFAZ.
+- Pruebas automáticas: 10/10 APROBADAS.
+
+VALIDACIÓN DEL DATASET EN LA APLICACIÓN
+- Registros: 8.760
+- Columnas: 14
+- Variables numéricas: 10
+- Datos faltantes: 0
+- Valores atípicos de "Rented Bike Count": 158
+
+EJECUTABLE FINAL
+- Ruta: dist\StatLab\StatLab.exe
+- SHA-256:
+  EAE079295D513FE48EE41630B3B58594602D253050E6F274235C921024CBBE9B
+
+INSTRUCCIÓN DE ENTREGA
+- Conservar completa la carpeta dist\StatLab.
+- Entregar el paquete ZIP final junto con el video.
+- Descomprimir el ZIP antes de ejecutar StatLab.exe en otro equipo.
+- El ZIP no sustituye a la aplicación: conserva en un único archivo la estructura
+  completa de dist\StatLab, incluida la carpeta _internal que necesita StatLab.exe.
+
+ÚNICO BLOQUE PENDIENTE DEL GRUPO
+- Ensayar, grabar y revisar el video de sustentación.
+- Probar el ZIP y el video desde la plataforma antes de confirmar el envío.

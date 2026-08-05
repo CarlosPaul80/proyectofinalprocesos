@@ -1,0 +1,50 @@
+CONTENIDO DE LA ENTREGA
+=======================
+
+APLICACIÓN
+- main.py: punto de entrada.
+- analizador/: módulos de carga, estadística, gráficos, interpretación, PDF e interfaz.
+- requirements.txt: dependencias.
+- run_app.bat / run_demo.bat: ejecución con Python.
+- setup_windows.bat: instalación guiada.
+- build_exe.bat / StatLab.spec: creación del ejecutable.
+
+EJECUTABLE
+- dist\StatLab\StatLab.exe
+- dist\StatLab\_internal\... (dependencias necesarias)
+
+DATOS
+- data\SeoulBikeData.csv
+- data\README_DATASET.md
+
+INFORME Y APOYO
+- docs\Informe_Tecnico_StatLab.pdf
+- docs\Reporte_Ejemplo_Rented_Bike_Count.pdf
+- docs\capturas\*.png
+- docs\Guion_Sustentacion_10_Minutos.md
+- docs\Preguntas_Probables_Defensa.md
+- docs\Checklist_Entrega_2_Dias.md
+- config_informe.json
+- generar_informe.py
+
+CALIDAD
+- tests\test_statistics.py
+- tests\test_report_generator.py
+- Comando de validación: python -m unittest discover -s tests -v
+- Resultado esperado: 10 pruebas aprobadas y estado OK.
+- El ejecutable debe validarse desde la carpeta dist\StatLab completa.
+- El PDF técnico debe regenerarse y revisarse después de actualizar los datos
+  del grupo o las capturas.
+
+ESTADO FINAL VERIFICADO
+- Dataset confirmado con el docente.
+- Datos reales de institución, estudiantes y docente incorporados.
+- Capturas actualizadas con la interfaz oscura.
+- Informe técnico regenerado y revisado.
+- Ejecutable recompilado y validado.
+- Gráficos y exportación PDF corregidos.
+- 10 pruebas automáticas aprobadas.
+
+PENDIENTE MANUAL DEL GRUPO
+- Grabar el video con participación de ambos integrantes.
+- Verificar el ZIP y el video en la plataforma antes de confirmar el envío.
